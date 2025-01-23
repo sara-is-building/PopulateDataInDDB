@@ -1,0 +1,3 @@
+{"Item":{"id":{"S":"001"},"SK":{"S":"Employee#1"},"Name":{"S":"John Doe"},"Type":{"S":"COO"}}}
+{"Item":{"id":{"S":"002"},"SK":{"S":"Employee#2"},"Name":{"S":"Jane Doe"},"Type":{"S":"CEO"}}}
+
