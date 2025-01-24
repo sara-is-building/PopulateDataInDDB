@@ -1,6 +1,10 @@
-# Welcome to your CDK TypeScript project
+# 3 Ways to Programmatically Populate Your AWS DynamoDB Table with Test Data.
 
-This is a blank project for CDK development with TypeScript.
+This project shows the examples of how to populate you DynamoDB tables with test data.
+
+This is for the Medium article 	- 3 Ways to Programmatically Populate Your AWS DynamoDB Table with Test Data.
+Find it here: https://medium.com/@sara-builds/3-ways-to-programmatically-populate-your-aws-dynamodb-table-with-test-data-d2786c1ab498
+
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
