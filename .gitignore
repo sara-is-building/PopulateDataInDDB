@@ -9,7 +9,6 @@ node_modules/
 
 ### CDK-specific ignores ###
 cdk.context.json
-package-lock.json
 cdk.out
 *.d.ts
 *.js
